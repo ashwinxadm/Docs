@@ -29,3 +29,4 @@ Getting Started with ASP.NET MVC 5
 - [Adding a New Field](adding-a-new-field.md)
 - [Adding Validation](adding-validation.md)
 - [Examining the Details and Delete Methods](examining-the-details-and-delete-methods.md)
+- [Assignments](assignments)
